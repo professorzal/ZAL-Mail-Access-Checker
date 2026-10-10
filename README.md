@@ -89,9 +89,14 @@ interactive prompts:
 one `email:password` per line. lines without `:` are skipped.
 
 ```
-user1@gmail.com:password1
-user2@outlook.com:password2
-user3@yahoo.com:password3
+MIX MAILs
+leticia@alyarte.es:Bergantin33
+w.escobar@markadistribuidora.com:Wescobar123!
+ortizgutierrez.jorge@cogitiar.es:Apolo1313
+encarnacion@mercadodelaencarnacion.es:8h5LL9fN1
+manuel@drbrandfactory.es:Manuel159753
+lagigantadigital@lagigantadigital.es:gig@nt@2017
+llevatelacamisetadevacaciones@jaenrugby.es:ahvuxVXk9SaiT9_
 ```
 
 ---
